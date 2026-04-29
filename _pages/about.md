@@ -80,10 +80,10 @@ My long-term vision is to advance **generalizable, knowledge-aware agent systems
   <span style="font-size: 0.87em; color: #c00000;"><strong>Under Review, Nature Communications</strong></span>. Co-first author.
 -->
 
-- <span style="font-size: 0.92em;">**Deep reinforcement learning unlocks sustainable livestock reallocation to cut nitrogen pollution by 70%**</span>  
+<!-- - <span style="font-size: 0.92em;">**Deep reinforcement learning unlocks sustainable livestock reallocation to cut nitrogen pollution by 70%**</span>  
   <span style="font-size: 0.869em;">Xiangwen Fan<sup>*</sup>, Haodi Zhang<sup>*</sup>, Jianghao Wang<sup>*</sup>, Zhaohai Bai<sup>*</sup>, <strong>Yiqiang Ye</strong>, Kaixin Zhu, Wilfried Winiwarter, Xin Zhang, Jiafa Luo, Maryna Strokal, Gang Wang, Bojin Liu, Chenyu Liu, Yanye Zhang, Yanyu Wang, Lu Zhang, Lin Ma.</span>  
   <span style="font-size: 0.87em; color: #c00000;"><strong>Under Review, Nature Sustainability</strong></span>. First student author.  
-  <a href="https://github.com/ResearchGroupHdZhang/Livestocks-Agent"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ResearchGroupHdZhang/Livestocks-Agent?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a>
+  <a href="https://github.com/ResearchGroupHdZhang/Livestocks-Agent"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ResearchGroupHdZhang/Livestocks-Agent?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a> -->
 
 <!--
 - <span style="font-size: 0.92em;">**LF-DET: A Synthetic-to-Real Transfer Learning Framework for Lens Flare Detection**</span>  
