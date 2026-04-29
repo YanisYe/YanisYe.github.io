@@ -17,10 +17,8 @@ The project is maintained in the style of compact academic GitHub Pages sites: J
 For this project repository, the default GitHub Pages URL is expected to be:
 
 ```text
-https://yanisye.github.io/yeyiqiang.github.io/
+https://yanisye.github.io/
 ```
-
-If you later rename the repository to `YanisYe.github.io` for a user-site homepage, change `baseurl` in `_config.yml` back to an empty string.
 
 ## Common edits
 
@@ -72,7 +70,7 @@ python3 scripts/validate_site.py
 
 ## Deployment
 
-For the project repository `YanisYe/yeyiqiang.github.io`, GitHub Pages publishes at `https://yanisye.github.io/yeyiqiang.github.io/` when Pages is enabled for the default branch.
+For the user-site repository `YanisYe/YanisYe.github.io`, GitHub Pages publishes at `https://yanisye.github.io/` when Pages is enabled for the default branch.
 
 ## Notes
 

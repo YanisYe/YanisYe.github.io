@@ -1,9 +1,9 @@
 # Site Settings
 title                    : "Yiqiang Ye"
 description              : "AI4Science; Operator Learning; Knowledge-Aware Agents"
-repository               : "YanisYe/yeyiqiang.github.io"
+repository               : "YanisYe/YanisYe.github.io"
 url                      : "https://yanisye.github.io"
-baseurl                  : "/yeyiqiang.github.io"
+baseurl                  : ""
 
 # SEO / analytics placeholders
 google_analytics_id      :
