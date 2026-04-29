@@ -1,0 +1,25 @@
+# Top navigation links
+main:
+  - title: "About me"
+    url: "/#about-me"
+
+  - title: "News"
+    url: "/#news"
+
+  - title: "Education"
+    url: "/#education"
+
+  - title: "Research"
+    url: "/#research"
+
+  - title: "Publications"
+    url: "/#publications"
+
+  - title: "Honors & Awards"
+    url: "/#honors-awards"
+
+  - title: "Skills"
+    url: "/#skills"
+
+  - title: "Contact"
+    url: "/#contact"

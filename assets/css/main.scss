@@ -1,0 +1,172 @@
+---
+---
+
+/*
+ *    Minimal Mistakes Jekyll Theme
+ *
+ *  - Michael Rose
+ *  - mademistakes.com
+ *  - https://twitter.com/mmistakes
+ *
+*/
+
+@import "vendor/breakpoint/breakpoint"; // media query mixins
+@import "variables";
+@import "mixins";
+@import "vendor/susy/susy";
+
+@import "reset";
+@import "base";
+
+@import "utilities";
+@import "animations";
+@import "tables";
+@import "buttons";
+@import "notices";
+@import "masthead";
+@import "navigation";
+@import "footer";
+@import "syntax";
+
+@import "forms";
+
+@import "page";
+@import "archive";
+@import "sidebar";
+
+@import "vendor/font-awesome/fontawesome";
+@import "vendor/font-awesome/solid";
+@import "vendor/font-awesome/brands";
+@import "vendor/magnific-popup/magnific-popup";
+@import "print";
+
+.paper-box {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-bottom: 1px #efefef solid;
+    padding: 2em 0 2em 0;
+    
+
+    .paper-box-image{
+        justify-content: center;
+        display: flex;
+        width: 100%;
+        order: 2;
+        img {
+            max-width: 400px;
+            box-shadow: 3px 3px 6px #888;
+            object-fit: cover;
+        }
+    }
+    
+    .paper-box-text{
+        max-width: 100%;
+        order: 1;
+    }
+    
+    @include breakpoint($medium) {
+        .paper-box-image{
+            justify-content: left;
+            min-width: 200px;
+            max-width: 40%;
+            order: 1;
+        }
+        
+        .paper-box-text{
+            justify-content: left;
+            padding-left: 2em;
+            max-width: 60%;
+            order: 2;
+        }
+
+    }
+
+
+}
+
+$scroll_offset : 2em;
+h1:before, .anchor:before { 
+    content: ''; 
+    display: block; 
+    position: relative; 
+    width: 0; 
+    height: $scroll_offset; 
+    margin-top: -$scroll_offset;
+}
+
+.badge {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    position: absolute;
+    margin-top: .5em;
+    margin-left: -.5em;
+    color: white;
+    background-color: #00369f;
+    font-size: .8em;
+}
+
+/* Local homepage polish: keep long author/sidebar metadata from intruding into the main column. */
+.author__urls,
+.author__urls li,
+.author__urls div {
+    max-width: 100%;
+    overflow-wrap: anywhere;
+    word-break: normal;
+}
+
+.profile_box {
+    max-width: 100%;
+}
+
+.paper-box-image img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    background: #f8fafc;
+}
+
+/* The reference theme offsets the about heading aggressively for its own page.
+   Keep this homepage readable by preventing the first heading from sliding under
+   the sidebar on medium desktop widths. */
+.page__content #about-me {
+    margin-top: 0;
+    scroll-margin-top: 4em;
+}
+
+.page__content #about-me:before {
+    display: none;
+    height: 0;
+    margin-top: 0;
+}
+
+@media (min-width: 925px) {
+    #main {
+        display: flex;
+        align-items: flex-start;
+        gap: 2.25rem;
+    }
+
+    .sidebar {
+        flex: 0 0 245px;
+        float: none !important;
+        width: 245px !important;
+        max-width: 245px;
+        margin-right: 0;
+    }
+
+    .page {
+        flex: 1 1 auto;
+        float: none !important;
+        width: auto !important;
+        max-width: calc(100% - 285px);
+        padding-left: 0 !important;
+        margin-left: 0 !important;
+    }
+
+    .profile_box {
+        display: block;
+    }
+}

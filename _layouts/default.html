@@ -1,22 +1,27 @@
-<!DOCTYPE html>
-<html lang="en">
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
 
-{% include head.html %}
+  <body>
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
 
-<!-- hack iOS CSS :active style -->
-<body ontouchstart="">
+    <div id="main" role="main">
+      {% include sidebar.html %}
 
-    {% include nav.html %}
+      <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+        {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+        <div class="page__inner-wrap">
+          <section class="page__content" itemprop="text">
+            {{ content }}
+          </section>
+        </div>
+      </article>
+    </div>
 
-    {{ content }}
-
-    {% include footer.html %}
-
-
-<!-- Image to hack wechat -->
-<img src="/img/icon_wechat.png" width="0" height="0" />
-<!-- Migrate from head to bottom, no longer block render and still work -->
-
-</body>
-
+    {% include scripts.html %}
+  </body>
 </html>
