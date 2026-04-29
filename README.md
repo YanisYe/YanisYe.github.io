@@ -14,6 +14,14 @@ The project is maintained in the style of compact academic GitHub Pages sites: J
 - `files/` — downloadable files such as the CV PDF.
 - `scripts/validate_site.py` — lightweight static validation before pushing.
 
+For this project repository, the default GitHub Pages URL is expected to be:
+
+```text
+https://yanisye.github.io/yeyiqiang.github.io/
+```
+
+If you later rename the repository to `YanisYe.github.io` for a user-site homepage, change `baseurl` in `_config.yml` back to an empty string.
+
 ## Common edits
 
 ### Update profile metadata
@@ -64,7 +72,7 @@ python3 scripts/validate_site.py
 
 ## Deployment
 
-For the username repository `YanisYe/yeyiqiang.github.io`, GitHub Pages publishes from the default branch automatically after pushing to GitHub.
+For the project repository `YanisYe/yeyiqiang.github.io`, GitHub Pages publishes at `https://yanisye.github.io/yeyiqiang.github.io/` when Pages is enabled for the default branch.
 
 ## Notes
 
