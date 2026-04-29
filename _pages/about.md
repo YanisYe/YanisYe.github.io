@@ -79,15 +79,15 @@ I plan to study **generalizable, knowledge-aware agent systems** for safety-crit
 \* denotes equal contribution or co-first authorship where indicated by the source CV. Status labels are reported conservatively.
 
 - <span style="font-size: 0.92em;">**Spherical Physics-informed Neural Operator with Multi-scale Coupling for Meteorological Downscaling**</span>  
-  <span style="font-size: 0.869em;"><strong>Yiqiang Ye*</strong>, Yichi Wang*, Jiawei Wen, Jiahui Jiang, Zhaoyu Zhong, Jiangjian Yu, Chunxia Xiao, Haodi Zhang.</span>  
+  <span style="font-size: 0.869em;"><strong>Yiqiang Ye<sup>*</sup></strong>, Yichi Wang<sup>*</sup>, Jiawei Wen, Jiahui Jiang, Zhaoyu Zhong, Jiangjian Yu, Chunxia Xiao, Haodi Zhang.</span>  
   <span style="font-size: 0.87em; color: #c00000;"><strong>Under Review, IJCAI, CCF-A</strong></span>. Co-first author.
 
 - <span style="font-size: 0.92em;">**Keeping China’s agriculture within environmental boundaries through precision mitigation with minimal technology and cost**</span>  
-  <span style="font-size: 0.869em;">Lu Zhang*, Yanye Zhang*, <strong>Yiqiang Ye*</strong>, Xiangwen Fan, Haotian Liu, Junjie Liu, Qishun Zhou, Xuan Wang, Haodi Zhang, Zhaohai Bai, Lin Ma.</span>  
+  <span style="font-size: 0.869em;">Lu Zhang<sup>*</sup>, Yanye Zhang<sup>*</sup>, <strong>Yiqiang Ye<sup>*</sup></strong>, Xiangwen Fan, Haotian Liu, Junjie Liu, Qishun Zhou, Xuan Wang, Haodi Zhang, Zhaohai Bai, Lin Ma.</span>  
   <span style="font-size: 0.87em; color: #c00000;"><strong>Under Review, Nature Communications</strong></span>. Co-first author.
 
 - <span style="font-size: 0.92em;">**Deep reinforcement learning unlocks sustainable livestock reallocation to cut nitrogen pollution by 70%**</span>  
-  <span style="font-size: 0.869em;">Xiangwen Fan*, Haodi Zhang*, Jianghao Wang*, Zhaohai Bai*, <strong>Yiqiang Ye</strong>, Kaixin Zhu, Wilfried Winiwarter, Xin Zhang, Jiafa Luo, Maryna Strokal, Gang Wang, Bojin Liu, Chenyu Liu, Yanye Zhang, Yanyu Wang, Lu Zhang, Lin Ma.</span>  
+  <span style="font-size: 0.869em;">Xiangwen Fan<sup>*</sup>, Haodi Zhang<sup>*</sup>, Jianghao Wang<sup>*</sup>, Zhaohai Bai<sup>*</sup>, <strong>Yiqiang Ye</strong>, Kaixin Zhu, Wilfried Winiwarter, Xin Zhang, Jiafa Luo, Maryna Strokal, Gang Wang, Bojin Liu, Chenyu Liu, Yanye Zhang, Yanyu Wang, Lu Zhang, Lin Ma.</span>  
   <span style="font-size: 0.87em; color: #c00000;"><strong>Under Review, Nature Sustainability</strong></span>. First student author.
 
 - <span style="font-size: 0.92em;">**LF-DET: A Synthetic-to-Real Transfer Learning Framework for Lens Flare Detection**</span>  
@@ -95,7 +95,7 @@ I plan to study **generalizable, knowledge-aware agent systems** for safety-crit
   <span style="font-size: 0.87em; color: #c00000;"><strong>Under Review, IJCAI, CCF-A</strong></span>.
 
 - <span style="font-size: 0.92em;">**UNO: Universal Neural Operator for Complex Climate Systems with Spatiotemporal Self-Supervised Learning**</span>  
-  <span style="font-size: 0.869em;">Jiahui Jiang*, Yichi Wang*, Jiawei Wen, <strong>Yiqiang Ye</strong>, Zhaohai Bai, Lin Ma, Xuan Wang, Haodi Zhang.</span>  
+  <span style="font-size: 0.869em;">Jiahui Jiang<sup>*</sup>, Yichi Wang<sup>*</sup>, Jiawei Wen, <strong>Yiqiang Ye</strong>, Zhaohai Bai, Lin Ma, Xuan Wang, Haodi Zhang.</span>  
   <span style="font-size: 0.87em; color: #c00000;"><strong>Under Review, IJCAI, CCF-A</strong></span>.
 
 - <span style="font-size: 0.92em;">**Interpretable Pulmonary Disease Diagnosis with Graph Neural Network and Counterfactual Explanations**</span>  
