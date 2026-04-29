@@ -37,7 +37,7 @@ def main() -> int:
     for text in FORBIDDEN:
         assert text not in combined, f'forbidden placeholder/reference text remains: {text}'
 
-    for anchor in ['about-me', 'news', 'education', 'research', 'publications', 'honors-awards', 'skills', 'contact']:
+    for anchor in ['about-me', 'news', 'education', 'research', 'publications', 'honors-awards', 'contact']:
         assert f"id='{anchor}'" in about or f'id="{anchor}"' in about, f'missing anchor: {anchor}'
         assert f'"/#{anchor}"' in nav, f'missing nav target: {anchor}'
 

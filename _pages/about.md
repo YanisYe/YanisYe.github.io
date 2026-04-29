@@ -112,14 +112,6 @@ My long-term vision is to advance **generalizable, knowledge-aware agent systems
 - **2023**: Grand Prize Student Scholarship, Shenzhen University.
 - **2019–2023**: Outstanding Student Scholarship, Third Prize, Guangdong University of Technology.
 
-<span class='anchor' id='skills'></span>
-# 🧰 Skills
-
-- **Scientific ML & Optimization**: operator learning, physics-informed learning, deep reinforcement learning, action masking, linear programming integration, and multi-objective optimization.
-- **LLM Training & Alignment**: full-parameter SFT, PEFT (LoRA, QLoRA), DPO, GRPO, PPO, reasoning enhancement, and reward modeling.
-- **System & Infrastructure**: distributed training with DeepSpeed and FSDP; high-performance inference with vLLM; model quantization with AWQ and GPTQ; RL training with verl.
-- **Multimodal & Agentic Systems**: multimodal LLM development, tool-calling workflows, and constrained scientific decision loops.
-
 <span class='anchor' id='contact'></span>
 # 📬 Contact
 
