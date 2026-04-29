@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 <span class='anchor' id='about-me'></span>
 # About Me
 
@@ -16,6 +15,7 @@ I am currently an M.S. student in **Computer Technology** at [Shenzhen Universit
 My current work centers on **AI for Agri-Climate Systems**, bridging physics-based modeling, data-driven learning, and agent-based reasoning to support reliable decisions in dynamic environmental systems. I am especially interested in physics-informed operator learning, knowledge-enhanced deep reinforcement learning, constrained spatial decision-making, and generalizable knowledge-aware agents for safety-critical scientific applications.
 
 ### Research Interests
+
 - **Physics-Informed Environment Modeling** — learning multi-scale representations for complex spatial systems, including spherical modeling for meteorological downscaling under strong physical priors.
 - **Knowledge-Integrated Spatial Decision-Making** — integrating domain knowledge, feasibility constraints, and learning-based optimization for spatial planning and strategy optimization.
 - **Knowledge-Aware Scientific Agents** — building interpretable world models and foundation-model-enabled agents with episodic memory, causal reasoning, and safety-aware multi-agent coordination.
@@ -26,19 +26,14 @@ My long-term vision is to advance **generalizable, knowledge-aware agent systems
 <span class='anchor' id='news'></span>
 # 🔥 News
 
-- *2026*: Preparing a PhD research plan on generalizable knowledge-aware agents for safety-critical scientific decision-making.
-- *2025*: Contributed to work on precision mitigation for China’s agriculture with minimal technology and cost.
-- *2025*: Contributed to knowledge-enhanced deep reinforcement learning for sustainable livestock reallocation and nitrogen pollution mitigation.
-- *2024–2025*: Received the Outstanding Student Scholarship, Second Prize, Shenzhen University.
-- *2023*: Received the Grand Prize Student Scholarship, Shenzhen University.
+- *2026.4.28*: MSPNO was accepted by IJCAI 2026. It learns high-resolution meteorological fields with spherical, multi-scale, and physics-informed neural operators.
 
 <span class='anchor' id='education'></span>
 # 📖 Education
 
 - <span style="font-size: 0.92em;">**2023 - 2026** | **M.S. in Computer Technology**</span>  
   **Shenzhen University**, Shenzhen, China  
-  Ranking: 21/132, Top 16%. Research on physics-informed operator learning and knowledge-enhanced decision optimization.
-
+  Research on physics-informed operator learning and knowledge-enhanced decision optimization.
 - <span style="font-size: 0.92em;">**2019 - 2023** | **B.S. in Information and Computational Science**</span>  
   **Guangdong University of Technology**, Guangzhou, China  
   Recommended for Admission.
@@ -70,9 +65,6 @@ My long-term vision is to advance **generalizable, knowledge-aware agent systems
   </div>
 </div>
 
-### Future Research Direction
-I plan to study **generalizable, knowledge-aware agent systems** for safety-critical science applications through three connected directions: interpretable world modeling, foundation-model-enabled long-horizon planning, and emergent multi-agent coordination under explicit safety constraints.
-
 <span class='anchor' id='publications'></span>
 # 📝 Selected Publications
 
@@ -80,16 +72,20 @@ I plan to study **generalizable, knowledge-aware agent systems** for safety-crit
 
 - <span style="font-size: 0.92em;">**Spherical Physics-informed Neural Operator with Multi-scale Coupling for Meteorological Downscaling**</span>  
   <span style="font-size: 0.869em;"><strong>Yiqiang Ye<sup>*</sup></strong>, Yichi Wang<sup>*</sup>, Jiawei Wen, Jiahui Jiang, Zhaoyu Zhong, Jiangjian Yu, Chunxia Xiao, Haodi Zhang.</span>  
-  <span style="font-size: 0.87em; color: #c00000;"><strong>Under Review, IJCAI, CCF-A</strong></span>. Co-first author.
+  <span style="font-size: 0.87em; color: #19735b;"><strong>Accepted, IJCAI 2026, CCF-A</strong></span>. Co-first author.
 
+<!--
 - <span style="font-size: 0.92em;">**Keeping China’s agriculture within environmental boundaries through precision mitigation with minimal technology and cost**</span>  
   <span style="font-size: 0.869em;">Lu Zhang<sup>*</sup>, Yanye Zhang<sup>*</sup>, <strong>Yiqiang Ye<sup>*</sup></strong>, Xiangwen Fan, Haotian Liu, Junjie Liu, Qishun Zhou, Xuan Wang, Haodi Zhang, Zhaohai Bai, Lin Ma.</span>  
   <span style="font-size: 0.87em; color: #c00000;"><strong>Under Review, Nature Communications</strong></span>. Co-first author.
+-->
 
 - <span style="font-size: 0.92em;">**Deep reinforcement learning unlocks sustainable livestock reallocation to cut nitrogen pollution by 70%**</span>  
   <span style="font-size: 0.869em;">Xiangwen Fan<sup>*</sup>, Haodi Zhang<sup>*</sup>, Jianghao Wang<sup>*</sup>, Zhaohai Bai<sup>*</sup>, <strong>Yiqiang Ye</strong>, Kaixin Zhu, Wilfried Winiwarter, Xin Zhang, Jiafa Luo, Maryna Strokal, Gang Wang, Bojin Liu, Chenyu Liu, Yanye Zhang, Yanyu Wang, Lu Zhang, Lin Ma.</span>  
-  <span style="font-size: 0.87em; color: #c00000;"><strong>Under Review, Nature Sustainability</strong></span>. First student author.
+  <span style="font-size: 0.87em; color: #c00000;"><strong>Under Review, Nature Sustainability</strong></span>. First student author.  
+  <a href="https://github.com/ResearchGroupHdZhang/Livestocks-Agent"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ResearchGroupHdZhang/Livestocks-Agent?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a>
 
+<!--
 - <span style="font-size: 0.92em;">**LF-DET: A Synthetic-to-Real Transfer Learning Framework for Lens Flare Detection**</span>  
   <span style="font-size: 0.869em;">Chen-Bin Feng, <strong>Yiqiang Ye</strong>, Yiguo Jiang, Hau-Sing So, Mengzhu Wang, Chi Man Vong.</span>  
   <span style="font-size: 0.87em; color: #c00000;"><strong>Under Review, IJCAI, CCF-A</strong></span>.
@@ -97,14 +93,17 @@ I plan to study **generalizable, knowledge-aware agent systems** for safety-crit
 - <span style="font-size: 0.92em;">**UNO: Universal Neural Operator for Complex Climate Systems with Spatiotemporal Self-Supervised Learning**</span>  
   <span style="font-size: 0.869em;">Jiahui Jiang<sup>*</sup>, Yichi Wang<sup>*</sup>, Jiawei Wen, <strong>Yiqiang Ye</strong>, Zhaohai Bai, Lin Ma, Xuan Wang, Haodi Zhang.</span>  
   <span style="font-size: 0.87em; color: #c00000;"><strong>Under Review, IJCAI, CCF-A</strong></span>.
+-->
 
 - <span style="font-size: 0.92em;">**Interpretable Pulmonary Disease Diagnosis with Graph Neural Network and Counterfactual Explanations**</span>  
   <span style="font-size: 0.869em;">Jiahong Li, Yiyuan Chen, Yichi Wang, <strong>Yiqiang Ye</strong>, Min Sun, Hao Ren, Weibin Cheng, Haodi Zhang.</span>  
   <span style="font-size: 0.87em; color: #19735b;"><strong>Published, SMC-IoT 2023, EI</strong></span>.
 
+<!--
 - <span style="font-size: 0.92em;">**Restructuring China-Brazil agricultural trade to resolve nitrogen pollution and water safety**</span>  
   <span style="font-size: 0.869em;">Gang Wang, Xiangwen Fan, Xun Wei, Jialu Xu, Xi Chen, Ling Liu, <strong>Yiqiang Ye</strong>, Lin Ma, Zhaohai Bai.</span>  
   <span style="font-size: 0.87em; color: #c00000;"><strong>Under Review, Agricultural Systems, CAS Tier 1</strong></span>.
+-->
 
 <span class='anchor' id='honors-awards'></span>
 # 🏆 Honors & Awards
@@ -116,10 +115,10 @@ I plan to study **generalizable, knowledge-aware agent systems** for safety-crit
 <span class='anchor' id='skills'></span>
 # 🧰 Skills
 
+- **Scientific ML & Optimization**: operator learning, physics-informed learning, deep reinforcement learning, action masking, linear programming integration, and multi-objective optimization.
 - **LLM Training & Alignment**: full-parameter SFT, PEFT (LoRA, QLoRA), DPO, GRPO, PPO, reasoning enhancement, and reward modeling.
 - **System & Infrastructure**: distributed training with DeepSpeed and FSDP; high-performance inference with vLLM; model quantization with AWQ and GPTQ; RL training with verl.
 - **Multimodal & Agentic Systems**: multimodal LLM development, tool-calling workflows, and constrained scientific decision loops.
-- **Scientific ML & Optimization**: operator learning, physics-informed learning, deep reinforcement learning, action masking, linear programming integration, and multi-objective optimization.
 
 <span class='anchor' id='contact'></span>
 # 📬 Contact
@@ -132,5 +131,5 @@ I am open to research discussions on AI4Science, physics-informed operator learn
 <hr style="margin-top: 3em;">
 
 <div id="footer" style="text-align: center; font-size: 0.9em; color: #666;">
-  &copy; 2026 Yiqiang Ye
+  © 2026 Yiqiang Ye
 </div>
