@@ -50,18 +50,18 @@ My long-term vision is to advance **generalizable, knowledge-aware agent systems
 </div>
 
 <div class="paper-box">
-  <div class="paper-box-image"><img src="{{ '/images/research/livestock-drl-method.jpg' | relative_url }}" alt="Livestock spatial planning thumbnail"></div>
-  <div class="paper-box-text">
-    <strong>Knowledge-Enhanced DRL for Livestock Spatial Planning</strong><br>
-    A constrained actor-critic planning framework for livestock redistribution under agronomic, environmental, and social constraints. The framework uses PPO, action masking, hierarchical migration/intervention stages, and DRL+LP optimization. Scenario results report 63% nitrogen surplus reduction, 48% ammonia-emission-intensity reduction, and 71% pollution-exposure reduction.
-  </div>
-</div>
-
-<div class="paper-box">
   <div class="paper-box-image"><img src="{{ '/images/research/pto-method.jpg' | relative_url }}" alt="PTO method thumbnail"></div>
   <div class="paper-box-text">
     <strong>PTO: Precise Technology Optimization for Agricultural Mitigation</strong><br>
     A county-level technology portfolio optimization pipeline covering 2,901 counties, 105 mitigation technologies, 18 carbon and nitrogen indicators, 4,538 publications, and 22,635 observations. PTO combines expert-guided initialization and curriculum learning to reduce emissions, cost, and implementation complexity.
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image"><img src="{{ '/images/research/livestock-drl-method.jpg' | relative_url }}" alt="Livestock spatial planning thumbnail"></div>
+  <div class="paper-box-text">
+    <strong>Knowledge-Enhanced DRL for Livestock Spatial Planning</strong><br>
+    A constrained actor-critic planning framework for livestock redistribution under agronomic, environmental, and social constraints. The framework uses PPO, action masking, hierarchical migration/intervention stages, and DRL+LP optimization. Scenario results report 63% nitrogen surplus reduction, 48% ammonia-emission-intensity reduction, and 71% pollution-exposure reduction.
   </div>
 </div>
 
